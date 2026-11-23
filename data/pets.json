@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Buddy",
+        "type": "Dog",
+        "age": 3,
+        "breed": "Golden Retriever"
+    },
+    {
+        "id": 2,
+        "name": "Mittens",
+        "type": "Cat",
+        "age": 2,
+        "breed": "Siamese"
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "type": "Dog",
+        "age": 5,
+        "breed": "Beagle"
+    },
+    {
+        "id": 4,
+        "name": "Luna",
+        "type": "Cat",
+        "age": 1,
+        "breed": "Maine Coon"
+    }
+]
